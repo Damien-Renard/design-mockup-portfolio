@@ -1,0 +1,59 @@
+html{
+  display:block;
+}
+  body{
+  box-sizing: border-box;
+  font-family: 'Indie Flower', cursive;
+  Color:#2d3c49;
+  display:block;
+  margin:8px;
+}
+.container{
+  margin-left:130px;
+  margin-right:130px;
+  margin-bottom:20px;
+  width: 80%;
+  padding: 20px;
+  overflow:auto;
+}
+#line{
+  border-bottom:3px	solid #A9A9A9;
+}
+h1{
+  font-size: 30px;
+}
+#right{
+  float:right;
+  clear:both;
+  margin: 0px 0px 15px 15px
+}
+#center{
+  align-items: :center;
+}
+figcaption{
+  font-size:25px;
+  text-transform: uppercase;
+}
+.imgformat{
+  width:225px;
+  height:225px;
+}
+figure{
+  width:auto;
+  height:auto;
+  overflow:auto;
+}
+#grey{
+  color: #7d97ad
+}
+#distribute{
+    display:flex;
+    justify-content: space-between;
+}
+.left{
+  float:left;
+}
+
+#website{
+  font-size:15px;
+}
