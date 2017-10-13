@@ -22,10 +22,10 @@ html{
 h1{
   font-size: 30px;
 }
-#right{
+.right{
   float:right;
   clear:both;
-  margin: 0px 0px 15px 15px
+  margin: 0px 0px 15px 15px;
 }
 #center{
   align-items: :center;
@@ -54,6 +54,6 @@ figure{
   float:left;
 }
 
-#website{
+.website{
   font-size:15px;
 }
